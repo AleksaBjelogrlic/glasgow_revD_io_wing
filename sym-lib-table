@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "glasgow_revD_io_wing")(type "KiCad")(uri "${KIPRJMOD}/glasgow_revD_io_wing.kicad_sym")(options "")(descr ""))
+)

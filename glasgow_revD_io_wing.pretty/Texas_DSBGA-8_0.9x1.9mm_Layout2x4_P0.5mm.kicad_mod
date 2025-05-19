@@ -1,0 +1,427 @@
+(footprint "Texas_DSBGA-8_0.9x1.9mm_Layout2x4_P0.5mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Texas Instruments, DSBGA, 0.9x1.9mm, 8 bump 2x4 (perimeter) array, NSMD pad definition (http://www.ti.com/lit/ds/symlink/txb0102.pdf, http://www.ti.com/lit/an/snva009ag/snva009ag.pdf)")
+	(tags "Texas Instruments DSBGA BGA YZP R-XBGA-N8")
+	(property "Reference" "REF**"
+		(at 0 -2.3 0)
+		(layer "F.SilkS")
+		(uuid "515ca636-80e1-4be8-8bb2-bb50420e2540")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "TPS631012YBGR"
+		(at 0 2 0)
+		(layer "F.Fab")
+		(uuid "a3a50186-1afe-46fd-adc7-59b5680f5fac")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tps631012.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4b761eb2-0162-49c5-bea8-e6430d4d675e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "848c5155-e083-47ce-a930-d4dad348fe22")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "Texas Instruments"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "92b694cc-c17c-4606-9544-c8b8342758c4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER PART NUMBER" "TPS631012YBGR"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bd4fa1b0-0b6b-411b-b76b-b95eb21b526c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SUPPLIER 1" "Mouser"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9a0c2d4e-ca34-4cf6-9eac-29d9a77f9eb8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SUPPLIER PART NUMBER 1" "595-TPS631012YBGR"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aca43b3f-554b-4878-85df-fb4ce06dd6d4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "1b2-bom-key" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3f806d34-4078-4f48-a9a4-bde365461504")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "ALTIUM_VALUE" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4d84de38-ad33-40e2-99b9-ea659be12f75")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c8531c3f-4e53-45d0-855b-effbe2720cac")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "852eb141-a1b6-4403-b770-d6abbed70bf7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer Product Number" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f87adb75-6310-4cd7-972e-4907d4e860a0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mfg" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2bce5706-dbdd-43d5-8ebe-efcf5d5bad70")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(solder_mask_margin 0.05)
+	(attr smd)
+	(fp_line
+		(start -0.58 -0.8)
+		(end -0.35 -1.03)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "f03a770a-a85f-49d2-8cf5-1d31abd832e3")
+	)
+	(fp_line
+		(start -0.58 -0.73)
+		(end -0.58 -0.8)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "451fb9e8-c50d-4915-90bc-07defc17b2f5")
+	)
+	(fp_line
+		(start -0.58 -0.73)
+		(end -0.58 1.03)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "24fea66c-c46f-48ea-9ef4-3844337e32f3")
+	)
+	(fp_line
+		(start -0.58 1.03)
+		(end 0.58 1.03)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e627b039-1134-4622-8ed4-5da63c111354")
+	)
+	(fp_line
+		(start -0.23 -1.03)
+		(end -0.35 -1.03)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "4fbb2d98-10c1-4331-8aa5-ee5eda6d392e")
+	)
+	(fp_line
+		(start 0.58 -1.03)
+		(end -0.23 -1.03)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ba99bbba-f0f0-4418-98f4-5ccbeb5c825e")
+	)
+	(fp_line
+		(start 0.58 -1.03)
+		(end 0.58 1.03)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b7cf2034-ecbc-48d1-81c1-d4ca0529ebd4")
+	)
+	(fp_line
+		(start -0.7125 -1.16)
+		(end -0.7125 1.16)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "37fafdc5-e3d0-4923-af08-4ab07114a9e8")
+	)
+	(fp_line
+		(start -0.7125 1.16)
+		(end 0.7125 1.16)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "06854112-7c20-4a00-b14f-283649f0224f")
+	)
+	(fp_line
+		(start 0.7125 -1.16)
+		(end -0.7125 -1.16)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "091af953-fa75-4e8a-97be-783bd8b3c939")
+	)
+	(fp_line
+		(start 0.7125 1.16)
+		(end 0.7125 -1.16)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "50438aae-e15d-415d-8a1b-edfb17a9f15f")
+	)
+	(fp_line
+		(start -0.4625 -0.75)
+		(end -0.3 -0.9115)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "7b9dbe8c-d85b-4902-b5e3-cc3c28c2f788")
+	)
+	(fp_line
+		(start -0.4625 0.9115)
+		(end -0.4625 -0.75)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "52869831-f6b2-4c84-8755-c70966546575")
+	)
+	(fp_line
+		(start -0.4625 0.9115)
+		(end 0.4625 0.9115)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e8ef4728-c155-4800-9dab-b06e7d172673")
+	)
+	(fp_line
+		(start 0.4625 -0.9115)
+		(end -0.3 -0.9115)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "243be297-3898-4581-8e23-c23d05a7d16a")
+	)
+	(fp_line
+		(start 0.4625 0.9115)
+		(end 0.4625 -0.9115)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "ad4fbbf5-b103-46a6-86b3-6a47b65275cc")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 90)
+		(layer "F.Fab")
+		(uuid "68a40fce-e69c-4b3f-b9e7-fd4605b617c3")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.05)
+			)
+		)
+	)
+	(pad "A1" smd circle
+		(at -0.2 -0.6)
+		(size 0.265 0.265)
+		(property pad_prop_bga)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "b3df2115-55ca-4f5e-a12b-eb51b212f368")
+	)
+	(pad "A2" smd circle
+		(at 0.2 -0.6)
+		(size 0.265 0.265)
+		(property pad_prop_bga)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "abee7503-05fa-4ca5-9748-4f52cfd015ac")
+	)
+	(pad "B1" smd circle
+		(at -0.2 -0.2)
+		(size 0.265 0.265)
+		(property pad_prop_bga)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "9c080bb4-230f-4913-b683-50f86d5f4f91")
+	)
+	(pad "B2" smd circle
+		(at 0.2 -0.2)
+		(size 0.265 0.265)
+		(property pad_prop_bga)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d22a5495-435e-4334-aabf-f76df5b7b497")
+	)
+	(pad "C1" smd circle
+		(at -0.2 0.2)
+		(size 0.265 0.265)
+		(property pad_prop_bga)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "97ea1063-0288-4dbd-bffb-60daef40589d")
+	)
+	(pad "C2" smd circle
+		(at 0.2 0.2)
+		(size 0.265 0.265)
+		(property pad_prop_bga)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "b6096211-dd22-4f67-94b4-f0d36ba0d1ce")
+	)
+	(pad "D1" smd circle
+		(at -0.2 0.6)
+		(size 0.265 0.265)
+		(property pad_prop_bga)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ebaf5bfb-e7e2-4000-8b7e-8243b5193ea3")
+	)
+	(pad "D2" smd circle
+		(at 0.2 0.6)
+		(size 0.265 0.265)
+		(property pad_prop_bga)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "5fd264cc-4d31-45e5-bb7a-d3ac2d44c786")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/Aleksa/Downloads/DSBGA8-YBG_TEX.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
